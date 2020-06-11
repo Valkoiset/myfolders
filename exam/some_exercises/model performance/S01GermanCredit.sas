@@ -1,4 +1,6 @@
 /* /folders/myfolders/exam/model performance */
+/* originial code here: http://web.sgh.waw.pl/~akorczy/files/abappm/code/S01GermanCredit.sas*/
+
 libname mydata "/folders/myfolders/exam/model performance";
 
 /* proc print data=mydata.german; */
